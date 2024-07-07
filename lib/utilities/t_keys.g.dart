@@ -1,0 +1,93 @@
+abstract class LocaleKeys {
+  static const appName = "Dream Store App";
+  static const home = "Home";
+  static const category = "Caregory";
+  static const ask = "Ask?";
+  static const cart = "My Card";
+  static const account = "Account";
+  static const onBoradingSlider_1 = "onBoradingSlider_1";
+  static const onBoradingSlider_2 = "onBoradingSlider_2";
+  static const onBoradingSlider_3 = "onBoradingSlider_3";
+  static const onBoradingSlider_4 = "onBoradingSlider_4";
+  static const theMostSalesProducts = "The Most Sales Products";
+  static const theNowProducts = "The Now Products";
+  static const askStoreAI = "Ask Store AI";
+  static const storeAIYourDigitalAssistantBasedArtificialIntelligence =
+      "Store AI, Your Digital Assistant Based On Artificial Intelligence.";
+  static const hereAreSomeIdeasToGetStarted =
+      "Here are some ideas to get you started:";
+  static const writeYourMessageHere = 'Write your message here';
+  static const send = 'send';
+  static const notification = "Notification";
+  static const payments = "Payments";
+  static const myOrders = "My Orders";
+  static const darkMode = "Dark Mode";
+  static const termsAndConditions = "Terms And Conditions";
+  static const shareTheApp = "Share The App";
+  static const signIn = "Sign in";
+  static const subtotal = "Subtotal";
+  static const taxes = "Taxes";
+  static const checkOut = "Check Out";
+  static const whereAreYourOrderedItemsShipped =
+      "Where are your ordered items shipped ?";
+
+  static const city = "City";
+  static const state = "State";
+  static const okey = "Okey";
+  static const goToHome = "Go To Home ";
+  static const skip = "Skip";
+  static const quantity = "Quantity";
+  static const orderDetails = "Order Details";
+  static const orderProdect = "Order Prodect";
+  static const totalPrice = "Total Price";
+  static const finalPrice = "Final Price";
+  static const paymentMethod = "Payment Method";
+  static const paymentForReceipt = "Payment for Receipt";
+  static const creditCard = "Credit Card";
+  static const buyNowAndPayLater = "Buy Now and Pay Later";
+  static const payPal = "PayPal";
+  static const availibleColor = "Availible Color";
+  static const addToCard = "Add To Card";
+  static const alreadyHaveAnAccount = 'Already have an account ? ';
+  static const logIn = 'Log-in';
+  static const dontHaveAnAccount = "Dont have an account ? ";
+  static const signUp = 'Sign-up';
+  static const email = 'Email';
+  static const yourEmail = 'Your email';
+  static const password = 'Password';
+  static const yourPassword = 'Your password';
+  static const name = 'Name';
+  static const yourname = 'Your name';
+  static const confirmPassword = 'Confirm Password';
+  static const confirmYourPassword = 'Confirm Your Password';
+  static const confirmation = "Confirmation";
+  static const doYouWantToCleanYuorCard = 'Do You Want to Clean Yuor Card ?';
+  static const cancel = 'Cancel';
+  static const darkMode_ = "Dark Mode :";
+  static const system = "System";
+  static const lightMode = "Light Mode";
+
+  // now
+  static const color = "Color :";
+  static const addLocation = "Add Location ..";
+  static const deliveryLocation = "Delivery Locition";
+  static const cashOnDelivery = "Cash On Delivery";
+  static const appLanguage = "App Language";
+  static const setLanguage = "Set Language";
+  static const english = "English";
+  static const arabic = "Arabic";
+  static const chinese = "Chinese";
+  static const french = "French";
+  static const german = "German";
+  static const russian = "Russian";
+  static const interAllinformationplease = "Inter All information please";
+  static const selectedLocation = "Selected Location";
+  static const sendLocation = "Send Location";
+  static const locationName = "Location Name";
+  static const countries = "Countries";
+  static const continuous = "Continuous";
+  static const pay = "Pay";
+  static const selectLocationFrist = "Select Location Frist";
+  static const done = "Done";
+  static const yourpaymentReceiveSeller = "Your payment Receive to Seller";
+}

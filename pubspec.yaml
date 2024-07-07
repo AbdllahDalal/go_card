@@ -1,0 +1,58 @@
+name: dream_store_app
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_staggered_grid_view:
+
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  provider: ^6.1.1
+  flutter_animate: ^4.5.0
+  dropdown_button2: ^2.3.9
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  flutter_custom_clippers: ^2.1.0
+  shared_preferences: ^2.2.3
+  add_to_cart_animation: ^2.0.3
+  flutterme_credit_card: ^1.0.2
+  google_maps_flutter: ^2.6.1
+  http: ^1.2.1
+  fl_location: ^3.1.0
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+  flutter_launcher_icons: "^0.13.1"
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/app logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/
+
+  fonts:
+    - family: NotoSerif
+      fonts:
+        - asset: assets/font/NotoSerif-Regular.ttf
+        - asset: assets/font/NotoSerif-Bold.ttf
+          weight: 700
