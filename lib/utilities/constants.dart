@@ -36,7 +36,7 @@ class Constants {
 
   // AI images from freepik.com
   static const askAIImage = "assets/images/Ask_Ai.jpg";
-  static const askAIDarkImage = "assets/images/Ask_Ai_dark.jpg";
+  static const askAIDarkImage = "assets/images/Ask_Ai.jpg";
 
   // sign image from freepik.com
   static const signImage = 'assets/images/friendship.png';
