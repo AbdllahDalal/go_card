@@ -1,5 +1,5 @@
 name: dream_store_app
-description: "A new Flutter project."
+description: "go card"
 publish_to: "none"
 
 version: 1.0.0+1
@@ -28,6 +28,7 @@ dependencies:
   http: ^1.2.1
   fl_location: ^3.1.0
   intl: ^0.19.0
+  rename_app: ^1.6.1
 
 dev_dependencies:
   flutter_test:

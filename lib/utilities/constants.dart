@@ -7,19 +7,19 @@ class Constants {
 
 //  light theme Colors
   static const kBackgroundColor = Colors.white;
-  static const kprimaryContainerColor = Color(0xFFF5F5F5);
+  static const kPrimaryContainerColor = Color(0xFFF5F5F5);
   static const kContainerColor = Color(0xFFDFDFDF);
-  static const ksecondaryContainerColor = Color(0xFF616161);
+  static const kSecondaryContainerColor = Color(0xFF616161);
 
 //  dark theme Colors
   static const kDarkBackgroundColor = Color(0xFF24323B);
-  static const kDarkprimaryContainerColor = Color(0xFF253A47);
+  static const kDarkPrimaryContainerColor = Color(0xFF253A47);
   static const kDarkContainerColor = Color(0xFF274A5F);
-  static const kDarksecondaryContainerColor = Color(0xFFEEEEEE);
+  static const kDarkSecondaryContainerColor = Color(0xFFEEEEEE);
 
   // Text Colors
   static const kTextColor = Color(0xFFFFFFFF);
-  static const kTextdarkColor = Color(0xFF000000);
+  static const kTextDarkColor = Color(0xFF000000);
   static const kGoldColor = Color(0xFFfcca46);
   static const kGranTextColor = Color(0xFF757575);
 

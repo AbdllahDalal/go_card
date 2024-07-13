@@ -114,10 +114,10 @@ class _OrdersListPageState extends State<OrdersListPage> {
             ),
             Expanded(
               child: ListView.builder(
-                reverse: true,
                 itemCount: fliterOrder.length,
                 itemBuilder: (context, index) {
-                  return OrdersCard(order: fliterOrder[index]);
+                  return OrdersCard(
+                      order: fliterOrder.reversed.toList()[index]);
                 },
               ),
             ),
