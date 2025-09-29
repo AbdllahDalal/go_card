@@ -1,6 +1,7 @@
 # go_cart
 
 A new Flutter project.
+<img src="assets/preview.png" alt="cashier_app preview" width="521px">
 
 ## Getting Started
 
